@@ -1,7 +1,8 @@
 {
   "name": "clean-ts-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeJs Rest API and GraphQL using TDD, Clean Architecture, Typescript and Design Patterns",
+  "author": "Italo Gama",
   "main": "index.js",
   "scripts": {
     "start": "node dist/main/server.js",
